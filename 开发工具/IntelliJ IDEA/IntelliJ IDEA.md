@@ -77,6 +77,7 @@ IntelliJ IDEA支持显示可视化图表，通过使用[DOT](https://en.wikipedi
 >1、打开Markdown设置。打开设置对话框`Ctrl+Alt+S`，进到Languages & Frameworks | Markdown页面
 >2、点击PlantUML framework旁边的Install按钮。
 
+图表功能在gitHub暂时无法使用。
 
 时序图：
 
